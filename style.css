@@ -1,0 +1,61 @@
+body {
+    align-items:unset;
+    font-family: rockwell;
+}
+.login_div1, .login_div2{
+    border-top: 10px solid #000000;
+    background-color: white;
+    border-radius: 15px;
+    margin: 50px;
+    width: 1000;
+    height: 150;
+}
+#login{
+margin:10%;
+align-items: center;
+}
+
+h1{
+    height: 50px;
+    width: 100px;
+    font: 30px;
+}
+h4{ 
+    margin-top: 10;
+    font-size: 30px;
+}
+input{
+    width: 700px;
+    margin-top: 30px;
+    height: 35px;
+}
+#output{
+    border-top: 10px solid #000000;
+    background-color: white;
+    border-radius: 15px;
+    margin: 100px;
+    width: 1000;
+}
+#no1entry{
+    color: blue;
+}
+#no2entry{
+    color: red;
+}
+body{
+    background: linear-gradient(#3379b7 20%, #75f542 80%);
+}
+.no1, .no2 {
+    border-top: 10px solid #000000;
+    background-color: white;
+    border-radius: 15px;
+    margin: 50px;
+    width: 1000;
+    height: 150;
+    margin-left: 100px;
+}
+#send{
+    width: 500px;
+    margin-bottom: 10px;
+    font: 100px;
+}
